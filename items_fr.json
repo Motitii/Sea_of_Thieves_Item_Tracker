@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Boussole Aristocrate",
+        "condition": "N/A",
+        "location": "Équipement Shop",
+        "price": "20",
+        "image": "Image/Aristocrat_Compass.webp",
+        "image_gold": "Image/Doubloon.webp"
+    },
+    {
+        "name": "Boussole de La Wailing Barnacle",
+        "condition": "N/A",
+        "location": "Équipement Shop",
+        "price": "20",
+        "image": "Image/Compass_of_The_Wailing_Barnacle.webp",
+        "image_gold": "Image/Doubloon.webp"
+    },
+    {
+        "name": "Boussole Saphir des Vents de l’Est",
+        "condition": "Twitch Drops",
+        "location": "Équipement Chest",
+        "price": "N/A",
+        "image": "Image/Eastern_Winds_Sapphire_Compass.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole Fearless Bone Crusher",
+        "condition": "N/A",
+        "location": "Équipement Shop",
+        "price": "20",
+        "image": "Image/Fearless_Bone_Crusher_Compass.webp",
+        "image_gold": "Image/Doubloon.webp"
+    },
+    {
+        "name": "Boussole Horizon Gelé",
+        "condition": "N/A",
+        "location": "Pirate Emporium",
+        "price": "249",
+        "image": "Image/Frozen_Horizon_Compass.webp",
+        "image_gold": "Image/AncientCoin.webp"
+    },
+    {
+        "name": "Boussole Phénix Doré",
+        "condition": "Twitch Drops",
+        "location": "Équipement Chest",
+        "price": "N/A",
+        "image": "Image/Gilded_Phoenix_Compass.webp",
+        "image_gold": "Image/Gold.webp"
+    }
+]

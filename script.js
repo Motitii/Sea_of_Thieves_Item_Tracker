@@ -1,6 +1,5 @@
-// Fonction pour charger et afficher les cartes d'objets
-function loadItems() {
-    fetch('items.json')
+function loadItems(Jsonlang) {
+    fetch(Jsonlang)
         .then(response => {
             if (!response.ok) {
                 throw new Error(`Network response was not ok: ${response.statusText}`);
@@ -47,6 +46,20 @@ function loadItems() {
             console.error('Error loading items:', error.message);
         });
 }
+document.addEventListener('DOMContentLoaded', loadItems("items_fr.json"));
 
-// Appel de la fonction au chargement de la page
-document.addEventListener('DOMContentLoaded', loadItems);
+function changeLanguage(language) {
+    localStorage.setItem('language', language);
+    const fileName = `items_${language}.json`;
+    clearItems();
+    loadItems(fileName);
+}
+
+function clearItems() {
+    const itemGrid = document.querySelector('.item-grid');
+    if (itemGrid) {
+        itemGrid.innerHTML = '';
+    } else {
+        console.warn('Item grid container not found in the DOM.');
+    }
+}

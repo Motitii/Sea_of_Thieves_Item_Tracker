@@ -9,14 +9,22 @@
 <body>
     <header>
         <h1>Sea of Thieves Item Tracker</h1>
+        <div class="language-switcher">
+            <button id="lang-fr" onclick="changeLanguage('fr')">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480"><path fill="#0055A4" d="M0 0h213.3v480H0z"/><path fill="#FFFFFF" d="M213.3 0h213.4v480H213.3z"/><path fill="#EF4135" d="M426.7 0H640v480H426.7z"/></svg>
+            </button>
+            <button id="lang-en" onclick="changeLanguage('en')">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#FFF" viewBox="0 0 640 480"> <path d="M0 0h1235v650H0"/> <path stroke="#b22234" stroke-dasharray="50" stroke-width="2470" d="M0 0v651"/> <path fill="#3c3b6e" d="M0 0h494v350H0"/> <g id="e"> <g id="d"> <g id="f"> <g id="c"> <g id="b"> <path id="a" d="m30 50.6 12-36 12 36-30.8-22H61"/> <use xlink:href="#a" x="82"/> </g> <use xlink:href="#b" x="164"/> <use xlink:href="#a" x="328"/> </g> <use xlink:href="#a" x="410"/> </g> <use xlink:href="#c" x="41" y="35"/> </g> <use xlink:href="#d" y="70"/> </g> <use xlink:href="#e" y="140"/> <use xlink:href="#f" y="280"/> </svg>
+            </button>
+        </div>
     </header>
     <main>
         <section class="item-grid">
-            <!-- Les cartes d'objets seront générées ici par JavaScript -->
+            <!-- Les cartes d'objets sont générées ici par JavaScript -->
         </section>
     </main>
     <footer>
-        <p>© 2024 Sea of Thieves Item Tracker</p>
+        <p>© 2024 Sea of Thieves Item Tracker by Motitii</p>
     </footer>
 
     <script src="script.js"></script>

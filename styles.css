@@ -17,6 +17,10 @@ header, footer {
     text-align: center;
     padding: 20px;
     background-color: #1F1F1F;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .item-grid {
@@ -70,4 +74,29 @@ header, footer {
     width: 20px;
     vertical-align: middle;
     margin-left: 5px;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
+.language-switcher {
+    display: flex;
+    gap: 10px;
+}
+
+.language-switcher button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    font-size: 24px;
+    line-height: 1;
+}
+
+.language-switcher svg {
+    width: 24px;
+    height: auto;
+    vertical-align: middle;
 }

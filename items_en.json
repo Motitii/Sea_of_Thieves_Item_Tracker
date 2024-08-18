@@ -46,5 +46,45 @@
         "price": "N/A",
         "image": "Image/Gilded_Phoenix_Compass.webp",
         "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Lunar Festival Compass",
+        "condition": "N/A",
+        "location": "Pirate Emporium",
+        "price": "249",
+        "image": "Image/Lunar_Festival_Compass.webp",
+        "image_gold": "Image/AncientCoin.webp"
+    },
+    {
+        "name": "Onyx Compass",
+        "condition": "Twitch Drops / Giveaways",
+        "location": "Equipment Chest",
+        "price": "N/A",
+        "image": "Image/Onyx_Compass.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Rose’s Compass",
+        "condition": "Complete 'Wild Rose' Tall Tale",
+        "location": "Equipment Chest",
+        "price": "N/A",
+        "image": "Image/Rose_Compass.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Sailor Compass",
+        "condition": "Provided for free to all players by default",
+        "location": "Equipment Chest",
+        "price": "N/A",
+        "image": "Image/Sailor_Compass.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Sapphire Blade Compass",
+        "condition": "Earned from the Insider Programme",
+        "location": "Equipment Chest",
+        "price": "N/A",
+        "image": "Image/Sapphire_Blade_Compass.webp",
+        "image_gold": "Image/Gold.webp"
     }
 ]

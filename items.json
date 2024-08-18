@@ -1,26 +1,50 @@
 [
     {
         "name": "Aristocrat Compass",
-        "condition": "Sell 500 Chests as a Pirate Legend",
+        "condition": "N/A",
         "location": "Equipment Shop",
-        "price": "5 000 000",
+        "price": "20",
         "image": "Image/Aristocrat_Compass.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Doubloon.webp"
     },
     {
-        "name": "Noble Spyglass",
-        "condition": "Complete 200 Voyages as a Pirate Legend",
+        "name": "Compass of The Wailing Barnacle",
+        "condition": "N/A",
         "location": "Equipment Shop",
         "price": "2 000 000",
-        "image": "Image/Aristocrat_Compass.webp",
+        "image": "Image/Compass_of_The_Wailing_Barnacle.webp",
+        "image_gold": "Image/Doubloon.webp"
+    },
+    {
+        "name": "Eastern Winds Sapphire Compass",
+        "condition": "Twitch Drops",
+        "location": "Equipment Chest",
+        "price": "N/A",
+        "image": "Image/Eastern_Winds_Sapphire_Compass.webp",
         "image_gold": "Image/Gold.webp"
     },
     {
-        "name": "Gold Spyglass",
-        "condition": "Complete 300 Voyages as a Pirate Legend",
+        "name": "Fearless Bone Crusher Compass",
+        "condition": "N/A",
         "location": "Equipment Shop",
-        "price": "3 000 000",
-        "image": "Image/Aristocrat_Compass.webp",
+        "price": "20",
+        "image": "Image/Fearless_Bone_Crusher_Compass.webp",
+        "image_gold": "Image/Doubloon.webp"
+    },
+    {
+        "name": "Frozen Horizon Compass",
+        "condition": "N/A",
+        "location": "Pirate Emporium",
+        "price": "249",
+        "image": "Image/Frozen_Horizon_Compass.webp",
+        "image_gold": "Image/AncientCoin.webp"
+    },
+    {
+        "name": "Gilded Phoenix Compass",
+        "condition": "Twitch Drops",
+        "location": "Equipment Chest",
+        "price": "N/A",
+        "image": "Image/Gilded_Phoenix_Compass.webp",
         "image_gold": "Image/Gold.webp"
     }
 ]

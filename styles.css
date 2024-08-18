@@ -1,0 +1,66 @@
+body {
+    background-color: #121212;
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #1F1F1F;
+}
+
+.item-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.item-card {
+    background-color: #2b2b2b;
+    border-radius: 15px;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.item-image {
+    max-width: 100%;
+    border-radius: 15px;
+}
+
+.item-name {
+    font-size: 24px;
+    margin: 15px 0;
+}
+
+.item-condition {
+    background-color: #3b3b3b;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.item-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item-location, .item-price {
+    background-color: #3b3b3b;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.coin-icon {
+    width: 20px;
+    vertical-align: middle;
+    margin-left: 5px;
+}

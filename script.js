@@ -34,7 +34,7 @@ function loadItems() {
                     <p class="item-condition">${item.condition}</p>
                     <div class="item-details">
                         <span class="item-location">${item.location}</span>
-                        <span class="item-price">${item.price} <img src="coin_icon.png" alt="Gold" class="coin-icon"></span>
+                        <span class="item-price">${item.price} <img src="${item.image_gold}" alt="Gold" class="coin-icon"></span>
                     </div>
                 `;
 

@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 
-header {
+header, footer {
     text-align: center;
     padding: 20px;
     background-color: #1F1F1F;

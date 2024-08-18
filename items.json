@@ -12,5 +12,12 @@
         "location": "Equipment Shop",
         "price": "2 000 000",
         "image": "Aristocrat_Compass.webp"
+    },
+    {
+        "name": "Gold Spyglass",
+        "condition": "Complete 300 Voyages as a Pirate Legend",
+        "location": "Equipment Shop",
+        "price": "3 000 000",
+        "image": "Aristocrat_Compass.webp"
     }
 ]

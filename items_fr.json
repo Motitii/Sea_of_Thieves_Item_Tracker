@@ -1,50 +1,298 @@
 [
     {
-        "name": "Boussole Aristocrate",
-        "condition": "N/A",
-        "location": "Équipement Shop",
-        "price": "20",
-        "image": "Image/Aristocrat_Compass.webp",
-        "image_gold": "Image/Doubloon.webp"
-    },
-    {
-        "name": "Boussole de La Wailing Barnacle",
-        "condition": "N/A",
-        "location": "Équipement Shop",
-        "price": "20",
-        "image": "Image/Compass_of_The_Wailing_Barnacle.webp",
-        "image_gold": "Image/Doubloon.webp"
-    },
-    {
-        "name": "Boussole Saphir des Vents de l’Est",
-        "condition": "Twitch Drops",
-        "location": "Équipement Chest",
-        "price": "N/A",
-        "image": "Image/Eastern_Winds_Sapphire_Compass.webp",
+        "name": "Boussole de la gloire du Magpie",
+        "condition": "Atteindre 11 fois le rang Légende du carnet d’émissaire de la Fortune d’Athéna",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole-de-la-gloire-du-Magpie.webp",
         "image_gold": "Image/Gold.webp"
     },
     {
-        "name": "Boussole Fearless Bone Crusher",
-        "condition": "N/A",
-        "location": "Équipement Shop",
-        "price": "20",
-        "image": "Image/Fearless_Bone_Crusher_Compass.webp",
-        "image_gold": "Image/Doubloon.webp"
+        "name": "Boussole du Marin chevronné",
+        "condition": "Avoir participé aux Twitch Drops du 25 juillet au 1er août 2024",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole_du_Marin_chevronne.webp",
+        "image_gold": "Image/Gold.webp"
     },
     {
-        "name": "Boussole Horizon Gelé",
-        "condition": "N/A",
+        "name": "Boussole du Marin algal",
+        "condition": "Avoir participé aux Twitch Drops du 5 au 8 juillet 2024",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole_du_Marin_algal.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole du renégat masqué",
+        "condition": "Atteindre le rang Maître dans le classement des émissaires des Os de la Faucheuse et le conserver jusqu’à la fin du carnet d’émissaire 11 fois.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole_du_renegat_masque.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole des Destins de la fortune",
+        "condition": "Vendre 120 coffres de fortune.",
+        "location": "Magasin d'équipement",
+        "price": "150 000",
+        "image": "Image/Boussole_des_destins_de_la_Fortune.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de l’ambassadeur marchand",
+        "condition": "Atteindre le rang Amiral dans le classement des émissaires de l’alliance des Marchands et le conserver jusqu’à la fin du carnet d’émissaire 11 fois",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole_de_l-ambassadeur_marchand.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole du Tribute Peak",
+        "condition": "Atteindre le rang Capitaine dans le classement des émissaires du Collectionneur d’or et le conserver jusqu’à la fin du carnet d’émissaire 11 fois",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole_du_Tribute_Peak.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de la relique des ténèbres",
+        "condition": "Atteindre le rang Notable dans le classement des émissaires de l’Ordre des âmes et le conserver jusqu’à la fin du carnet d’émissaire 11 fois",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole_de_la_relique_des_tenebres.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de navigation nuancée",
+        "condition": "Requiert le niveau 20 du pass gratuit de la saison 10.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/boussole_de_navigation_nuancee.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de rubis des vents de l’est",
+        "condition": "Avoir participé aux Twitch Drops du 26 au 29 mai 2023",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/boussole_de_rubis_des_vents_de_l_est.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de saphir des vents de l’est",
+        "condition": "Avoir participé aux Twitch Drops entre le 30 septembre 2022 et le 4 octobre 2022.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole_de_saphir_des_vents_de_l_est.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de l’horizon gelé",
+        "condition": "Aucun prérequis.",
         "location": "Pirate Emporium",
         "price": "249",
-        "image": "Image/Frozen_Horizon_Compass.webp",
+        "image": "Image/boussole_de_l_horizon_gele.png",
         "image_gold": "Image/AncientCoin.webp"
     },
     {
-        "name": "Boussole Phénix Doré",
-        "condition": "Twitch Drops",
-        "location": "Équipement Chest",
-        "price": "N/A",
-        "image": "Image/Gilded_Phoenix_Compass.webp",
+        "name": "Boussole des cendres de Forsaken roussie",
+        "condition": "Vaincre 100 squelettes à l’aide d’un crâne des Vents cendrés.",
+        "location": "Magasin d'équipement",
+        "price": "3 950",
+        "image": "Image/boussole_des_cendres_de_forsaken_roussi.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole du feu hivernal",
+        "condition": "Requiert le niveau 96 du pass gratuit de la saison 5.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/boussole_du_feu_hivernal.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de Wild Rose prospère",
+        "condition": "Avoir réalisé toutes les promotions de la fable « Wild Rose »",
+        "location": "Magasin d'équipement",
+        "price": "37 800",
+        "image": "Image/boussole_de_wild_rose_prospere.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole brumeuse",
+        "condition": "Terminer l’aventure « Île Brumeuse » disponible entre le 17 Février et le 3 Mars 2022.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole-brumeuse.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de chasseur du crépuscule",
+        "condition": "Uniquement obtenable en Twitch Drops le 4 Octobre 2021.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole-de-chasseur-du-crepuscule.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole ornée de saphirs",
+        "condition": "Récompense de participation au programme Insider pendant 133 semaines.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole-ornee-de-saphirs.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de chasseur de l’aube",
+        "condition": "Vendre 240 objets de n’importe quelle société en affichant le pavillon d’émissaire des Os de la Faucheuse",
+        "location": "Magasin d'équipement",
+        "price": "37 800",
+        "image": "Image/Boussole-de-chasseur-de-l-aube.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de l’Alliance des marchands",
+        "condition": "Récompense de l’évènement des faucheurs contre le monde.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole_de_l_Alliance_des_marchands.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de crabier de l’océan azur",
+        "condition": "Livrer 25 poissons trophées",
+        "location": "Magasin d'équipement",
+        "price": "3 950",
+        "image": "Image/Boussole_de_crabier_de_l_ocean_azur.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole d’aristocrate cultivé",
+        "condition": "Infliger un boulet de paix à un autre navire en affichant le pavillon à tête de mort",
+        "location": "Magasin d'équipement",
+        "price": "37 800",
+        "image": "Image/Boussole_d_aristocrate_cultive.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole royale",
+        "condition": "Atteindre le niveau 46 auprès des Collectionneurs d’or.",
+        "location": "Magasin d'équipement",
+        "price": "2 800",
+        "image": "Image/Boussole_royale.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole légendaire",
+        "condition": "Vendre 500 coffres en tant que légende pirate",
+        "location": "Magasin d'équipement Athéna",
+        "price": "2 800",
+        "image": "Image/Boussole_legendaire.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole du Silent Barnacle",
+        "condition": "Vendre 300 coffres d’épave aux Collectionneur d’or.",
+        "location": "Magasin d'équipement",
+        "price": "37 800",
+        "image": "Image/Boussole_du_Silent_Barnacle.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole du Phénix d’or",
+        "condition": "Uniquement obtenable durant un Twitch Drop.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole_du_Phenix_d_or.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole du Festival lunaire",
+        "condition": "Devait être acheté durant l’événement Les Légendes de la mer.",
+        "location": "Pirate Emporium",
+        "price": "249",
+        "image": "Image/Boussole_du_Festival_lunaire.png",
+        "image_gold": "Image/AncientCoin.webp"
+    },
+    {
+        "name": "Boussole de lame d’argent",
+        "condition": "Récompense de participation au programme Insider pendant 33 semaines.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole_de_lame_d_argent.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole des coquillages funestes",
+        "condition": "Il fallait l’acheter durant l’événement Butins brumeux.",
+        "location": "Magasin d'équipement",
+        "price": "20",
+        "image": "Image/Boussole_des_coquillages_funestes.png",
+        "image_gold": "Image/Doubloon.webp"
+    },
+    {
+        "name": "Boussole du Dragon cendré",
+        "condition": "Avoir vendu le tome 2 de Pouvoir.",
+        "location": "Magasin d'équipement",
+        "price": "3 950",
+        "image": "Image/Boussole_du_Dragon_cendre.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole du Dragon cendré",
+        "condition": "Avoir vendu le tome 2 de Pouvoir.",
+        "location": "Magasin d'équipement",
+        "price": "3 950",
+        "image": "Image/Boussole_du_Dragon_cendre.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole des cendres de Forsaken",
+        "condition": "Réaliser 5 voyages pour les Collectionneurs d’or et l’Ordre des âmes dans le Devil’s Roar",
+        "location": "Magasin d'équipement",
+        "price": "3 950",
+        "image": "Image/Boussole_des_cendres_de_Forsaken.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de Rose",
+        "condition": "Terminez la fable du flibustier « Wild Rose ».",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Boussole_de_Rose.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole fantôme",
+        "condition": "Atteindre le niveau 11 de réputation Athéna.",
+        "location": "Magasin d'équipement Athéna",
+        "price": "19 880",
+        "image": "Image/Boussole_fantome.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole des Sombres aventuriers",
+        "condition": "Niveau 50 auprès de 3 réputations différentes parmi les 5 existantes.",
+        "location": "Magasin d'équipement Athéna",
+        "price": "945 000",
+        "image": "Image/Boussole_des_Sombres_aventuriers.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole de perroquet clair de lune",
+        "condition": "Aucun prérequis.",
+        "location": "Magasin d'équipement",
+        "price": "25 200",
+        "image": "Image/Boussole_de_perroquet_clair_de_lune.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Boussole du perroquet solaire",
+        "condition": "Trouvé le livre d'Umbra qui raconte la légende de Cursed Sails. (Sur Crescent Isle)",
+        "location": "Magasin d'équipement",
+        "price": "37 800",
+        "image": "Image/Boussole_du_perroquet_solaire.png",
         "image_gold": "Image/Gold.webp"
     }
 ]

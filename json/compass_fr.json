@@ -240,14 +240,6 @@
         "image_gold": "Image/Gold.webp"
     },
     {
-        "name": "Boussole du Dragon cendré",
-        "condition": "Avoir vendu le tome 2 de Pouvoir.",
-        "location": "Magasin d'équipement",
-        "price": "3 950",
-        "image": "Image/Compass/Boussole_du_Dragon_cendre.png",
-        "image_gold": "Image/Gold.webp"
-    },
-    {
         "name": "Boussole des cendres de Forsaken",
         "condition": "Réaliser 5 voyages pour les Collectionneurs d’or et l’Ordre des âmes dans le Devil’s Roar",
         "location": "Magasin d'équipement",

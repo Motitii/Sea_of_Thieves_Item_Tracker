@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Seau de la gloire du Magpie",
+        "condition": "Atteindre 10 fois le rang Légende du carnet d’émissaire de la Fortune d’Athéna",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau-de-la-gloire-du-Magpie.webp",
+        "image_gold": "Image/Gold.webp"
+    }
+]

@@ -1,13 +1,23 @@
-function loadItems(Jsonlang) {
-    fetch(Jsonlang)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`Network response was not ok: ${response.statusText}`);
-            }
-            return response.json();
-        })
-        .then(items => {
-            if (!Array.isArray(items)) {
+const languageFiles = {
+    fr: ['json/compass_fr.json', 'json/bucket_fr.json'],
+    en: ['json/compass_en.json', 'json/bucket_en.json'],
+};
+
+function loadItems(jsonFiles) {
+    const promises = jsonFiles.map(file => 
+        fetch(file)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Network response was not ok: ${response.statusText}`);
+                }
+                return response.json();
+            })
+    );
+
+    Promise.all(promises)
+        .then(allItemsArrays => {
+            const allItems = allItemsArrays.flat();
+            if (!Array.isArray(allItems)) {
                 throw new Error('Data format error: Expected an array of items.');
             }
 
@@ -15,8 +25,9 @@ function loadItems(Jsonlang) {
             if (!itemGrid) {
                 throw new Error('Item grid container not found in the DOM.');
             }
-            window.allItems = items;
-            displayItems(items);
+
+            window.allItems = allItems;
+            displayItems(allItems);
         })
         .catch(error => {
             console.error('Error loading items:', error.message);
@@ -55,7 +66,9 @@ function displayItems(items) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    loadItems("items_fr.json");
+    const savedLanguage = localStorage.getItem('language') || 'fr';
+    const filesToLoad = languageFiles[savedLanguage] || languageFiles['fr'];
+    loadItems(filesToLoad);
 
     const searchInput = document.getElementById('search-input');
     searchInput.addEventListener('input', function() {
@@ -67,9 +80,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function changeLanguage(language) {
     localStorage.setItem('language', language);
-    const fileName = `items_${language}.json`;
+    const filesToLoad = languageFiles[language] || languageFiles['fr'];
     clearItems();
-    loadItems(fileName);
+    loadItems(filesToLoad);
 }
 
 function clearItems() {

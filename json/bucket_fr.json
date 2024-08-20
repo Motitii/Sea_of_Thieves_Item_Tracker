@@ -6,5 +6,549 @@
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau-de-la-gloire-du-Magpie.webp",
         "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau du renégat masqué",
+        "condition": "Atteindre le rang Maître dans le classement des émissaires des Os de la Faucheuse et le conserver jusqu'à la fin du carnet d'émissaire 10 fois",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_du_renegat_masque.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau du Loup de mer sage",
+        "condition": "Avoir participé aux Twitch Drops du 15 au 17 juin 2024",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_du_Loup_de_mer_sage.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau des destins de la fortune",
+        "condition": "Vendre 120 coffres de fortune",
+        "location": "Magasin d'équipement",
+        "price": "150 000",
+        "image": "Image/Bucket/Seau_des_destins_de_la_fortune.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de l'ambassadeur marchand",
+        "condition": "Atteindre 10 fois le rang Amiral dans le classement des émissaires de l'alliance des Marchands et le conserver jusqu'à la fin du carnet d'émissaire 10 fois",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_de_l-ambassadeur_marchand.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de Tribute Peak",
+        "condition": "Atteindre le rang Capitaine dans le classement des émissaires du Collectionneur d'or et le conserver jusqu'à la fin du carnet d'émissaire 10 fois",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_de_Tribute_Peak.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de la relique des ténèbres",
+        "condition": "Atteindre le rang Notable dans le classement des émissaires de l'Ordre des âmes et le conserver jusqu'à la fin du carnet d'émissaire 10 fois",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_de_la_relique_des_tenebres.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de l'Alliance des marchands",
+        "condition": "Atteindre le niveau 50 auprès de l'Alliance des marchands",
+        "location": "Magasin de l'Alliance des marchands",
+        "price": "135 000",
+        "image": "Image/Bucket/Seau-de-l-Alliance-des-marchands.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Le seau de la Cuisine éternelle",
+        "condition": "Requiert le niveau 96 du pass gratuit de la saison 10",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/le_seau_de_la_cuisine_eternelle.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de rubis des vents de l'est",
+        "condition": "Avoir participé aux Twitch Drops du 28 au 31 juillet 2023",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/seau_de_rubis_des_vents_de_l_est.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau orné de saphirs",
+        "condition": "Récompense de participation au programme Insider pendant 184 semaines",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_orne_de_saphirs.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de l'horizon gelé",
+        "condition": "Aucun prérequis",
+        "location": "Pirate Emporium",
+        "price": "249",
+        "image": "Image/Bucket/seau_de_l_horizon_gele.png",
+        "image_gold": "Image/AncientCoins.webp"
+    },
+    {
+        "name": "Seau des cendres de Forsaken roussi",
+        "condition": "Requiert la promotion «Capitaine des os cendrés» (Vaincre 100 squelettes à l'aide d'un crâne des Vents cendrés)",
+        "location": "Magasin d'équipement",
+        "price": "2 650",
+        "image": "Image/Bucket/seau_des_cendres_de_forsaken_roussi.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau du Lapin de Pâques",
+        "condition": "Requiert le niveau 20 du pass gratuit de la saiosn 6",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/seau_du_lapin_de_paques.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de Wild Rose prospère",
+        "condition": "Requiert la promotion « Tienne à tout jamais ». (Avoir réalisé toutes les promotions de la fable « Wild Rose »)",
+        "location": "Magasin d'équipement",
+        "price": "25 650",
+        "image": "Image/Bucket/seau_de_wild_rose_prospere.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de couronne de l'hiver",
+        "condition": "Participer à l'évènement « Festival des Grâces » de 2021",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/seau_couronne_hiver.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de chasseur du crépuscule",
+        "condition": "Ce cosmétique n'est plus disponible. Uniquement obtenable en Twitch Drops le 18 Octobre 2021",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/seau-chasseur-crepuscule.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de l'Ordre des âmes",
+        "condition": "Débloquer la promotion « Bourlingueur des os murmurants » (Naviguer 1000 milles nautiques pour l'Ordre des âmes)",
+        "location": "Magasin de l'Ordre des âmes",
+        "price": "51 300",
+        "image": "Image/Bucket/Seau-de-lOrdre-des-ames.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de chasseur de l'aube",
+        "condition": "Disposer de la promotion « Trésors pillés » au rang 2 (vendre 240 objets de n’importe quelle société en affichant le pavillon d’émissaire des Os de la Faucheuse)",
+        "location": "Magasin d'équipement",
+        "price": "25 650",
+        "image": "Image/Bucket/Seau-de-chasseur-de-l-aube.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de crabier de l'océan azur",
+        "condition": "Disposer de la promotion « Chasseur de poisson trophées » (Livrer 25 poissons trophées)",
+        "location": "Magasin d'équipement",
+        "price": "2 650",
+        "image": "Image/Bucket/Seau_de_crabier_de_l_ocean_azur.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de crabier du grand large",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "17 100",
+        "image": "Image/Bucket/Seau_de_crabier_du_grand_large.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau du coeur de la faucheuse",
+        "condition": "Aucun prérequis",
+        "location": "Pirate Emporium",
+        "price": "149",
+        "image": "Image/Bucket/Seau_du_coeur_de_la_faucheuse.png",
+        "image_gold": "Image/AncientCoins.webp"
+    },
+    {
+        "name": "Seau d'aristocrate cultivé",
+        "condition": "Disposer de la promotion « La malédiction du Pacifists Demise » (Infliger un boulet de paix à un autre navire en affichant le pavillon à tête de mort)",
+        "location": "Magasin d'équipement",
+        "price": "25 650",
+        "image": "Image/Bucket/Seau_d_aristocrate_cultive.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau royal",
+        "condition": "Atteindre le niveau 31 auprès des Collectionneurs d'or",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_royal.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau légendaire",
+        "condition": "Disposer du titre Pirate Légende (Niveau 50 auprès de 3 réputations différentes parmi les 5 existantes)",
+        "location": "Magasin d'équipement Athéna",
+        "price": "2 650",
+        "image": "Image/Bucket/Seau_legendaire.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau du Silent Barnacle",
+        "condition": "Disposer de la promotion « Collectionneur d’or à coquilles » (Vendre 300 coffres d’épave aux Collectionneur d’or !)",
+        "location": "Magasin d'équipement",
+        "price": "25 650",
+        "image": "Image/Bucket/Seau_du_Silent_Barnacle.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau du Phénix d'or",
+        "condition": "Ce set n'est plus disponible. Uniquement obtenable durant un Twitch Drop passé",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_du_Phenix_d_or.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau du Dragon cendré",
+        "condition": "Avoir vendu le Tome 4 de Pouvoir",
+        "location": "Magasin d'équipement",
+        "price": "2 650",
+        "image": "Image/Bucket/Seau_du_Dragon_cendre.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de lame d'argent",
+        "condition": "Récompense de participation au programme Insider pendant 93 semaines",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_de_lame_d_argent.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau des coquillages funestes",
+        "condition": "Ce set n'est plus disponible. Il fallait l'acheter durant l'évènement Butins brumeux",
+        "location": "Magasin d'équipement",
+        "price": "15",
+        "image": "Image/Bucket/Seau_des_coquillages_funestes.png",
+        "image_gold": "Image/Doubloon.webp"
+    },
+    {
+        "name": "Seau de Wild Rose",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "15",
+        "image": "Image/Bucket/Seau_de_Wild_Rose.png",
+        "image_gold": "Image/Doubloon.webp"
+    },
+    {
+        "name": "Seau des cendres de Forsaken",
+        "condition": "Disposer du titre « Maître voyageur diabolique » (réaliser 5 voyages pour les Collectionneurs d’or et l’Ordre des âmes dans le Devil’s Roar)",
+        "location": "Magasin d'équipement",
+        "price": "2 650",
+        "image": "Image/Bucket/Seau_des_cendres_de_Forsaken.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau fantôme",
+        "condition": "Disposer du titre Pirate Légende (Niveau 50 auprès de 3 réputations différentes parmi les 5 existantes) et de la promotion Butin sordide des légendes (Vendre 50 crânes sordides d’ancienne fortune en tant que légende pirate)",
+        "location": "Magasin d'équipement Athéna",
+        "price": "13 350",
+        "image": "Image/Bucket/Seau_fantome.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau des Sombres aventuriers",
+        "condition": "Disposer du titre Pirate Légende (Niveau 50 auprès de 3 réputations différentes parmi les 5 existantes)",
+        "location": "Magasin d'équipement Athéna",
+        "price": "641 250",
+        "image": "Image/Bucket/Seau_des_Sombres_aventuriers.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de perroquet clair de lune",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "17 100",
+        "image": "Image/Bucket/Seau_de_perroquet_clair_de_lune.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de perroquet solaire",
+        "condition": "Accomplir la promotion « Légendes de la mer II »",
+        "location": "Magasin d'équipement",
+        "price": "25 650",
+        "image": "Image/Bucket/Seau_de_perroquet_solaire.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de perroquet",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "2 650",
+        "image": "Image/Bucket/Seau_de_perroquet.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de mercenaire",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "15",
+        "image": "Image/Bucket/Seau_de_mercenaire.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de marin",
+        "condition": "Aucun prérequis",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_de_marin.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de loup de mer triomphant",
+        "condition": "Ce cosmétique n'est plus disponible. Requiert la promotion « En l’honneur des loups de mer ». (Lever votre chope de loup de mer splendide avec trois autres pirates dans la baignoire de l’arène)",
+        "location": "Magasin d'équipement",
+        "price": "16 985",
+        "image": "Image/Bucket/Seau_de_loup_de_mer_triomphant.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de loup de mer splendide",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "4 000",
+        "image": "Image/Bucket/Seau_de_loup_de_mer_splendide.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de loup de mer renégat",
+        "condition": "Atteindre le niveau 31 auprès de l'Ordre des âmes",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_de_loup_de_mer_renegat.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de loup de mer escroc",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_de_loup_de_mer_escroc.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de loup de mer",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_de_loup_de_mer.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de kraken venimeux",
+        "condition": "Disposer du titre « Chasseur légendaire du kraken » (Vaincre le Kraken 10 fois)",
+        "location": "Magasin d'équipement",
+        "price": "25 650",
+        "image": "Image/Bucket/Seau_de_kraken_venimeux.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de kraken",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "2 650",
+        "image": "Image/Bucket/Seau_de_kraken.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de jade des vents de l'est",
+        "condition": "Disposer de la promotion « Un présent généreux au plus grand nombre » (livrer 25 présents généreux)",
+        "location": "Magasin d'équipement",
+        "price": "25 650",
+        "image": "Image/Bucket/Seau_de_jade_des_vents_de_l_est.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de fond de cale miteuse",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "5 500",
+        "image": "Image/Bucket/Seau_de_fond_de_cale_miteuse.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de fond de cale échouée",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_de_fond_de_cale_echouee.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de fond de cale",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_de_fond_de_cale.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de désosseur téméraire",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "15",
+        "image": "Image/Bucket/Seau_de_desosseur_temeraire.png",
+        "image_gold": "Image/Doubloon.webp"
+    },
+    {
+        "name": "Seau de désosseur",
+        "condition": "Disposer de la promotion « Fléau des navires squelettes » (AVoit battu 50 navires squelettes)",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_de_desosseur.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de crabier",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "2 650",
+        "image": "Image/Bucket/Seau_de_crabier.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau du courage",
+        "condition": "Cet élément n'est plus disponible. Il était nécessaire de le gagner lors des Défis d'été",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_du_courage.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de baron impérial",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_de_baron_imperial.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de chasseur",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_de_chasseur.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de baron",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_de_baron.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau d'onyx",
+        "condition": "Ce set n'est plus disponible. Uniquement obtenable durant un Twitch Drop passé",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_d_onyx.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau d'encre de kraken",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "17 100",
+        "image": "Image/Bucket/Seau_d_encre_de_kraken.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau d'aristocrate",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "15",
+        "image": "Image/Bucket/Seau_d_aristocrate.png",
+        "image_gold": "Image/Doubloon.webp"
+    },
+    {
+        "name": "Seau amiral rituel",
+        "condition": "Atteindre le niveau 31 auprès de l'Alliance des marchands",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_amiral_rituel.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau amiral éminent",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_amiral_eminent.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau amiral",
+        "condition": "Aucun prérequis",
+        "location": "Magasin d'équipement",
+        "price": "1 900",
+        "image": "Image/Bucket/Seau_amiral.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau des Collectionneurs d'or",
+        "condition": "Atteindre le niveau 55 auprès des Collectionneurs d'or",
+        "location": "Magasin des Collectionneurs d'or",
+        "price": "500 000",
+        "image": "Image/Bucket/Seau_des_collectionneurs_d_or.png",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau du gardien fantôme",
+        "condition": "Requiert la Bénédiction de la Fortune d’Athéna. Requiert la promotion « Vous l’avez tout englué » (Vous avez vomi sur un membre de votre équipage en portant la malédiction fantôme.)",
+        "location": "Magasin d'équipement Athéna",
+        "price": "13 350",
+        "image": "Image/Bucket/Seau_du_gardien_fantome.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau du Bristling Barnacle",
+        "condition": "Disposer de la promotion « Collectionneur d’or à coquilles » (vendre 300 coffres d’épave aux Collectionneur d’or !)",
+        "location": "Magasin d'équipement",
+        "price": "25 650",
+        "image": "Image/Bucket/Seau_du_bristling_barnacle.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau de saphir des vents de l'est",
+        "condition": "Ce cosmétique n'est plus disponible. Uniquement obtenable en Twitch Drops entre le 2 décembre 2022 et le 5 décembre 2022",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Bucket/Seau_de_saphir_des_vents_de_l_est.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau du froid mordant",
+        "condition": "Disposer de la promotion « Un modeste présent au plus grand nombre » (livrer 25 modestes présents)",
+        "location": "Magasin d'équipement",
+        "price": "25 650",
+        "image": "Image/Bucket/Seau_du_froid_mordant.webp",
+        "image_gold": "Image/Gold.webp"
+    },
+    {
+        "name": "Seau des cendres de Forsaken brulé",
+        "condition": "Requiert la promotion « Capitaine des os cendrés ». (Vous avez enflammé 100 squelettes ou fantômes avec le Crâne des vents cendrés)",
+        "location": "Magasin d'équipement",
+        "price": "2 650",
+        "image": "Image/Bucket/Seau_des_cendres_de_forsaken_brule.webp",
+        "image_gold": "Image/Gold.webp"
     }
 ]

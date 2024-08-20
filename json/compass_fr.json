@@ -281,7 +281,7 @@
     },
     {
         "name": "Boussole du perroquet solaire",
-        "condition": "Trouvé le livre d'Umbra qui raconte la légende de Cursed Sails. (Sur Crescent Isle)",
+        "condition": "Trouver le livre d'Umbra qui raconte la légende de Cursed Sails. (Sur Crescent Isle)",
         "location": "Magasin d'équipement",
         "price": "37 800",
         "image": "Image/Compass/Boussole_du_perroquet_solaire.png",

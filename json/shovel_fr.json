@@ -44,7 +44,7 @@
         "condition": "Atteindre le niveau 50 auprès de l'Alliance des marchands",
         "location": "Magasin de l'Alliance des marchands",
         "price": "300 000",
-        "image": "Image/Shovel/Pelle-de-l-Alliance-des-marchands",
+        "image": "Image/Shovel/Pelle-de-l-Alliance-des-marchands.webp",
         "image_gold": "Image/Gold.webp"
     },
     {
@@ -132,7 +132,7 @@
         "condition": "Disposer de la promotion ‘La malédiction du Pacifists Demise’ (Infliger un boulet de paix à un autre navire en affichant le pavillon à tête de mort)",
         "location": "Magasin d'équipement",
         "price": "24 975",
-        "image": "Image/Shovel/Pelle_d_aristorate_cultive.png",
+        "image": "Image/Shovel/Pelle_d_aristocrate_cultive.png",
         "image_gold": "Image/Gold.webp"
     },
     {
@@ -188,7 +188,7 @@
         "condition": "Avoir vendu le Tome de pouvoir 3",
         "location": "Magasin d'équipement",
         "price": "2 600",
-        "image": "Image/Shovel/Pelle_du_dragon_cendré.png",
+        "image": "Image/Shovel/Pelle_du_dragon_cendre.png",
         "image_gold": "Image/Gold.webp"
     },
     {
@@ -436,7 +436,7 @@
         "condition": "Aucun prérequis",
         "location": "Magasin d'équipement",
         "price": "1 850",
-        "image": "Image/Shovel/Pelle_de_baron_impériale.png",
+        "image": "Image/Shovel/Pelle_de_baron_imperiale.png",
         "image_gold": "Image/Gold.webp"
     },
     {
@@ -516,7 +516,7 @@
         "condition": "Requiert la Bénédiction de la Fortune d’Athéna. Requiert la promotion « Amène-toi » (Après avoir reçu votre Bénédiction, vous avez terminé un voyage de légende pirate en représentant les Gardiens de la Fortune d’Athéna)",
         "location": "Magasin d'équipement Athéna",
         "price": "13 250",
-        "image": "Image/Shovel/pelle_du_gardien_fantome.png",
+        "image": "Image/Shovel/pelle_du_gardien_fantome.webp",
         "image_gold": "Image/Gold.webp"
     },
     {

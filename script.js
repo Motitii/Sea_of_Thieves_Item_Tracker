@@ -1,5 +1,5 @@
 const languageFiles = {
-    fr: ['json/compass_fr.json', 'json/bucket_fr.json', 'json/shovel._fr.json'],
+    fr: ['json/compass_fr.json', 'json/bucket_fr.json', 'json/shovel_fr.json'],
     en: ['json/compass_en.json', 'json/bucket_en.json', 'json/shovel_en.json'],
 };
 

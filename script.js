@@ -71,11 +71,22 @@ document.addEventListener('DOMContentLoaded', () => {
     loadItems(filesToLoad);
 
     const searchInput = document.getElementById('search-input');
-    searchInput.addEventListener('input', function() {
+    const categoryDropdown = document.getElementById('category-dropdown');
+
+    function filterItems() {
         const searchTerm = searchInput.value.toLowerCase();
-        const filteredItems = window.allItems.filter(item => item.name.toLowerCase().includes(searchTerm));
+        const selectedCategory = categoryDropdown.value;
+
+        const filteredItems = window.allItems.filter(item => {
+            const matchesSearch = item.name.toLowerCase().includes(searchTerm);
+            const matchesCategory = selectedCategory === 'all' || item.category === selectedCategory;
+            return matchesSearch && matchesCategory;
+        });
         displayItems(filteredItems);
-    });
+    }
+
+    searchInput.addEventListener('input', filterItems);
+    categoryDropdown.addEventListener('change', filterItems);
 });
 
 function changeLanguage(language) {

@@ -107,9 +107,22 @@ h1 {
 }
 
 #search-input {
-    width: 80%;
+    width: 60%;
     padding: 10px;
     font-size: 16px;
     border-radius: 5px;
     border: 1px solid #ccc;
+}
+
+#category-dropdown {
+    font-family: 'CaveatBrush', sans-serif;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+#category-dropdown option{
+    font-size: 16px;
+    padding: 8px;
 }

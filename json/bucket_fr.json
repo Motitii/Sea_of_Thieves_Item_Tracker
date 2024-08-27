@@ -5,7 +5,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau-de-la-gloire-du-Magpie.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau du renégat masqué",
@@ -13,7 +14,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_du_renegat_masque.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau du Loup de mer sage",
@@ -21,7 +23,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_du_Loup_de_mer_sage.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau des destins de la fortune",
@@ -29,7 +32,8 @@
         "location": "Magasin d'équipement",
         "price": "150 000",
         "image": "Image/Bucket/Seau_des_destins_de_la_fortune.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de l'ambassadeur marchand",
@@ -37,7 +41,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_de_l-ambassadeur_marchand.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de Tribute Peak",
@@ -45,7 +50,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_de_Tribute_Peak.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de la relique des ténèbres",
@@ -53,7 +59,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_de_la_relique_des_tenebres.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de l'Alliance des marchands",
@@ -61,7 +68,8 @@
         "location": "Magasin de l'Alliance des marchands",
         "price": "135 000",
         "image": "Image/Bucket/Seau-de-l-Alliance-des-marchands.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Le seau de la Cuisine éternelle",
@@ -69,7 +77,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/le_seau_de_la_cuisine_eternelle.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de rubis des vents de l'est",
@@ -77,7 +86,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/seau_de_rubis_des_vents_de_l_est.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau orné de saphirs",
@@ -85,7 +95,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_orne_de_saphirs.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de l'horizon gelé",
@@ -93,7 +104,8 @@
         "location": "Pirate Emporium",
         "price": "249",
         "image": "Image/Bucket/seau_de_l_horizon_gele.png",
-        "image_gold": "Image/AncientCoins.webp"
+        "image_gold": "Image/AncientCoin.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau des cendres de Forsaken roussi",
@@ -101,7 +113,8 @@
         "location": "Magasin d'équipement",
         "price": "2 650",
         "image": "Image/Bucket/seau_des_cendres_de_forsaken_roussi.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau du Lapin de Pâques",
@@ -109,7 +122,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/seau_du_lapin_de_paques.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de Wild Rose prospère",
@@ -117,7 +131,8 @@
         "location": "Magasin d'équipement",
         "price": "25 650",
         "image": "Image/Bucket/seau_de_wild_rose_prospere.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de couronne de l'hiver",
@@ -125,7 +140,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/seau-couronne-hiver.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de chasseur du crépuscule",
@@ -133,7 +149,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/seau-chasseur-crepuscule.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de l'Ordre des âmes",
@@ -141,7 +158,8 @@
         "location": "Magasin de l'Ordre des âmes",
         "price": "51 300",
         "image": "Image/Bucket/Seau-de-lOrdre-des-ames.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de chasseur de l'aube",
@@ -149,7 +167,8 @@
         "location": "Magasin d'équipement",
         "price": "25 650",
         "image": "Image/Bucket/Seau-de-chasseur-de-l-aube.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de crabier de l'océan azur",
@@ -157,7 +176,8 @@
         "location": "Magasin d'équipement",
         "price": "2 650",
         "image": "Image/Bucket/Seau_de_crabier_de_l_ocean_azur.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de crabier du grand large",
@@ -165,7 +185,8 @@
         "location": "Magasin d'équipement",
         "price": "17 100",
         "image": "Image/Bucket/Seau_de_crabier_du_grand_large.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau du coeur de la faucheuse",
@@ -173,7 +194,8 @@
         "location": "Pirate Emporium",
         "price": "149",
         "image": "Image/Bucket/Seau_du_coeur_de_la_faucheuse.png",
-        "image_gold": "Image/AncientCoins.webp"
+        "image_gold": "Image/AncientCoin.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau d'aristocrate cultivé",
@@ -181,7 +203,8 @@
         "location": "Magasin d'équipement",
         "price": "25 650",
         "image": "Image/Bucket/Seau_d_aristocrate_cultive.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau royal",
@@ -189,7 +212,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_royal.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau légendaire",
@@ -197,7 +221,8 @@
         "location": "Magasin d'équipement Athéna",
         "price": "2 650",
         "image": "Image/Bucket/Seau_legendaire.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau du Silent Barnacle",
@@ -205,7 +230,8 @@
         "location": "Magasin d'équipement",
         "price": "25 650",
         "image": "Image/Bucket/Seau_du_Silent_Barnacle.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau du Phénix d'or",
@@ -213,7 +239,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_du_Phenix_d_or.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau du Dragon cendré",
@@ -221,7 +248,8 @@
         "location": "Magasin d'équipement",
         "price": "2 650",
         "image": "Image/Bucket/Seau_du_Dragon_cendre.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de lame d'argent",
@@ -229,7 +257,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_de_lame_d_argent.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau des coquillages funestes",
@@ -237,7 +266,8 @@
         "location": "Magasin d'équipement",
         "price": "15",
         "image": "Image/Bucket/Seau_des_coquillages_funestes.png",
-        "image_gold": "Image/Doubloon.webp"
+        "image_gold": "Image/Doubloon.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de Wild Rose",
@@ -245,7 +275,8 @@
         "location": "Magasin d'équipement",
         "price": "15",
         "image": "Image/Bucket/Seau_de_Wild_Rose.png",
-        "image_gold": "Image/Doubloon.webp"
+        "image_gold": "Image/Doubloon.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau des cendres de Forsaken",
@@ -253,7 +284,8 @@
         "location": "Magasin d'équipement",
         "price": "2 650",
         "image": "Image/Bucket/Seau_des_cendres_de_Forsaken.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau fantôme",
@@ -261,7 +293,8 @@
         "location": "Magasin d'équipement Athéna",
         "price": "13 350",
         "image": "Image/Bucket/Seau_fantome.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau des Sombres aventuriers",
@@ -269,7 +302,8 @@
         "location": "Magasin d'équipement Athéna",
         "price": "641 250",
         "image": "Image/Bucket/Seau_des_Sombres_aventuriers.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de perroquet clair de lune",
@@ -277,7 +311,8 @@
         "location": "Magasin d'équipement",
         "price": "17 100",
         "image": "Image/Bucket/Seau_de_perroquet_clair_de_lune.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de perroquet solaire",
@@ -285,7 +320,8 @@
         "location": "Magasin d'équipement",
         "price": "25 650",
         "image": "Image/Bucket/Seau_de_perroquet_solaire.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de perroquet",
@@ -293,7 +329,8 @@
         "location": "Magasin d'équipement",
         "price": "2 650",
         "image": "Image/Bucket/Seau_de_perroquet.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de mercenaire",
@@ -301,7 +338,8 @@
         "location": "Magasin d'équipement",
         "price": "15",
         "image": "Image/Bucket/Seau_de_mercenaire.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de marin",
@@ -309,7 +347,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_de_marin.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de loup de mer triomphant",
@@ -317,7 +356,8 @@
         "location": "Magasin d'équipement",
         "price": "16 985",
         "image": "Image/Bucket/Seau_de_loup_de_mer_triomphant.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de loup de mer splendide",
@@ -325,7 +365,8 @@
         "location": "Magasin d'équipement",
         "price": "4 000",
         "image": "Image/Bucket/Seau_de_loup_de_mer_splendide.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de loup de mer renégat",
@@ -333,7 +374,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_de_loup_de_mer_renegat.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de loup de mer escroc",
@@ -341,7 +383,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_de_loup_de_mer_escroc.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de loup de mer",
@@ -349,7 +392,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_de_loup_de_mer.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de kraken venimeux",
@@ -357,7 +401,8 @@
         "location": "Magasin d'équipement",
         "price": "25 650",
         "image": "Image/Bucket/Seau_de_kraken_venimeux.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de kraken",
@@ -365,7 +410,8 @@
         "location": "Magasin d'équipement",
         "price": "2 650",
         "image": "Image/Bucket/Seau_de_kraken.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de jade des vents de l'est",
@@ -373,7 +419,8 @@
         "location": "Magasin d'équipement",
         "price": "25 650",
         "image": "Image/Bucket/Seau_de_jade_des_vents_de_l_est.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de fond de cale miteuse",
@@ -381,7 +428,8 @@
         "location": "Magasin d'équipement",
         "price": "5 500",
         "image": "Image/Bucket/Seau_de_fond_de_cale_miteuse.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de fond de cale échouée",
@@ -389,7 +437,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_de_fond_de_cale_echouee.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de fond de cale",
@@ -397,7 +446,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_de_fond_de_cale.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de désosseur téméraire",
@@ -405,7 +455,8 @@
         "location": "Magasin d'équipement",
         "price": "15",
         "image": "Image/Bucket/Seau_de_desosseur_temeraire.png",
-        "image_gold": "Image/Doubloon.webp"
+        "image_gold": "Image/Doubloon.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de désosseur",
@@ -413,7 +464,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_de_desosseur.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de crabier",
@@ -421,7 +473,8 @@
         "location": "Magasin d'équipement",
         "price": "2 650",
         "image": "Image/Bucket/Seau_de_crabier.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau du courage",
@@ -429,7 +482,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_du_courage.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de baron impérial",
@@ -437,7 +491,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_de_baron_imperial.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de chasseur",
@@ -445,7 +500,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_de_chasseur.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de baron",
@@ -453,7 +509,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_de_baron.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau d'onyx",
@@ -461,7 +518,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_d_onyx.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau d'encre de kraken",
@@ -469,7 +527,8 @@
         "location": "Magasin d'équipement",
         "price": "17 100",
         "image": "Image/Bucket/Seau_d_encre_de_kraken.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau d'aristocrate",
@@ -477,7 +536,8 @@
         "location": "Magasin d'équipement",
         "price": "15",
         "image": "Image/Bucket/Seau_d_aristocrate.png",
-        "image_gold": "Image/Doubloon.webp"
+        "image_gold": "Image/Doubloon.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau amiral rituel",
@@ -485,7 +545,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_amiral_rituel.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau amiral éminent",
@@ -493,7 +554,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_amiral_eminent.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau amiral",
@@ -501,7 +563,8 @@
         "location": "Magasin d'équipement",
         "price": "1 900",
         "image": "Image/Bucket/Seau_amiral.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau des Collectionneurs d'or",
@@ -509,7 +572,8 @@
         "location": "Magasin des Collectionneurs d'or",
         "price": "500 000",
         "image": "Image/Bucket/Seau_des_collectionneurs_d_or.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau du gardien fantôme",
@@ -517,7 +581,8 @@
         "location": "Magasin d'équipement Athéna",
         "price": "13 350",
         "image": "Image/Bucket/Seau_du_gardien_fantome.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau du Bristling Barnacle",
@@ -525,7 +590,8 @@
         "location": "Magasin d'équipement",
         "price": "25 650",
         "image": "Image/Bucket/Seau_du_bristling_barnacle.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau de saphir des vents de l'est",
@@ -533,7 +599,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Bucket/Seau_de_saphir_des_vents_de_l_est.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau du froid mordant",
@@ -541,7 +608,8 @@
         "location": "Magasin d'équipement",
         "price": "25 650",
         "image": "Image/Bucket/Seau_du_froid_mordant.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     },
     {
         "name": "Seau des cendres de Forsaken brulé",
@@ -549,6 +617,7 @@
         "location": "Magasin d'équipement",
         "price": "2 650",
         "image": "Image/Bucket/Seau_des_cendres_de_forsaken_brule.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Bucket"
     }
 ]

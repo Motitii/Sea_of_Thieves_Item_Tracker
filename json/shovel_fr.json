@@ -5,7 +5,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle-de-la-gloire-du-Magpie.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle du renégat masqué",
@@ -13,7 +14,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle_du_renegat_masque.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de l'ambassadeur marchand",
@@ -21,7 +23,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle_de_l-ambassadeur_marchand.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle du Tribute Peak",
@@ -29,7 +32,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle_du_Tribute_Peak.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de la relique des ténèbres",
@@ -37,7 +41,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle-de-la-relique-des-tenebres.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de l'Alliance des marchands",
@@ -45,7 +50,8 @@
         "location": "Magasin de l'Alliance des marchands",
         "price": "300 000",
         "image": "Image/Shovel/Pelle-de-l-Alliance-des-marchands.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de rubis des vents de l'est",
@@ -53,7 +59,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/pelle_de_rubis_des_vents_de_l_est.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle ornée de saphirs",
@@ -61,7 +68,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle_ornee_de_saphirs.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de l'horizon gelé",
@@ -69,7 +77,8 @@
         "location": "Pirate Emporium",
         "price": "249",
         "image": "Image/Shovel/pelle_de_l_horizon_gele.png",
-        "image_gold": "Image/AncientCoin.webp"
+        "image_gold": "Image/AncientCoin.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle des cendres de Forsaken roussie",
@@ -77,7 +86,8 @@
         "location": "Magasin d'équipement",
         "price": "2 600",
         "image": "Image/Shovel/pelle_des_cendres_de_forsaken_roussie.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de loup de mer triomphant",
@@ -85,7 +95,8 @@
         "location": "Magasin d'équipement",
         "price": "11 180",
         "image": "Image/Shovel/pelle_de_loup_de_mer_triomphant.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de Wild Rose",
@@ -93,7 +104,8 @@
         "location": "Magasin d'équipement",
         "price": "15",
         "image": "Image/Shovel/pelle_de_wild_rose_old.png",
-        "image_gold": "Image/Doubloon.webp"
+        "image_gold": "Image/Doubloon.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de Wild Rose prospère",
@@ -101,7 +113,8 @@
         "location": "Magasin d'équipement",
         "price": "24 975",
         "image": "Image/Shovel/pelle_de_wild_rose_prospere.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de chasseur du crépuscule",
@@ -109,7 +122,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle-de-chasseur-du-crepuscule.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de chasseur de l'aube",
@@ -117,7 +131,8 @@
         "location": "Magasin d'équipement",
         "price": "24 975",
         "image": "Image/Shovel/Pelle-de-chasseur-de-l-aube.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de crabier de l'océan azur",
@@ -125,7 +140,8 @@
         "location": "Magasin d'équipement",
         "price": "2 600",
         "image": "Image/Shovel/Pelle_de_crabier_de_l_ocean_azur.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle d'aristocrate cultivé",
@@ -133,7 +149,8 @@
         "location": "Magasin d'équipement",
         "price": "24 975",
         "image": "Image/Shovel/Pelle_d_aristocrate_cultive.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle légendaire",
@@ -141,7 +158,8 @@
         "location": "Magasin d'équipement Athéna",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_legendaire.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle royale",
@@ -149,7 +167,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_royale.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle du Silent Barnacle",
@@ -157,7 +176,8 @@
         "location": "Magasin d'équipement",
         "price": "24 975",
         "image": "Image/Shovel/Pelle_du_Silent_Barnacle.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle du Phénix d'or",
@@ -165,7 +185,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle_du_Phenix_d_or.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de lame d'argent",
@@ -173,7 +194,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle_de_lame_d_argent.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle du coeur de la Faucheuse",
@@ -181,7 +203,8 @@
         "location": "Pirate Emporium",
         "price": "149",
         "image": "Image/Shovel/Pelle_du_coeur_de_la_Faucheuse.png",
-        "image_gold": "Image/AncientCoin.webp"
+        "image_gold": "Image/AncientCoin.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle du Dragon cendré",
@@ -189,7 +212,8 @@
         "location": "Magasin d'équipement",
         "price": "2 600",
         "image": "Image/Shovel/Pelle_du_dragon_cendre.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle des coquillages funestes",
@@ -197,7 +221,8 @@
         "location": "Magasin d'équipement",
         "price": "15",
         "image": "Image/Shovel/Pelle_des_coquillages_funestes.png",
-        "image_gold": "Image/Doubloon.webp"
+        "image_gold": "Image/Doubloon.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle des cendres de Forsaken",
@@ -205,7 +230,8 @@
         "location": "Magasin d'équipement",
         "price": "2 600",
         "image": "Image/Shovel/Pelle_des_cendres_de_Forsaken.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de Wild Rose blanche",
@@ -213,7 +239,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle-de-Wild-Rose.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle fantôme",
@@ -221,7 +248,8 @@
         "location": "Magasin d'équipement Athéna",
         "price": "13 250",
         "image": "Image/Shovel/Pelle_fantome.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de perroquet solaire",
@@ -229,7 +257,8 @@
         "location": "Magasin d'équipement",
         "price": "24 975",
         "image": "Image/Shovel/Pelle_de_perroquet_solaire.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle des Sombres aventuriers",
@@ -237,7 +266,8 @@
         "location": "Magasin d'équipement Athéna",
         "price": "624 375",
         "image": "Image/Shovel/Pelle_des_Sombres_aventuriers.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de perroquet clair de lune",
@@ -245,7 +275,8 @@
         "location": "Magasin d'équipement",
         "price": "16 650",
         "image": "Image/Shovel/Pelle_de_perroquet_clair_de_lune.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de perroquet",
@@ -253,7 +284,8 @@
         "location": "Magasin d'équipement",
         "price": "2 600",
         "image": "Image/Shovel/Pelle_de_perroquet.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de mercenaire",
@@ -261,7 +293,8 @@
         "location": "Magasin d'équipement",
         "price": "15",
         "image": "Image/Shovel/Pelle_de_mercenaire.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de marin",
@@ -269,7 +302,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle_de_marin.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de loup de mer splendide",
@@ -277,7 +311,8 @@
         "location": "Magasin d'équipement",
         "price": "2 600",
         "image": "Image/Shovel/Pelle_de_loup_de_mer_splendide.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de loup de mer renégat",
@@ -285,7 +320,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_de_loup_de_mer_renegat.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de loup de mer escroc",
@@ -293,7 +329,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_de_loup_de_mer_escroc.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de loup de mer",
@@ -301,7 +338,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_de_loup_de_mer.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de kraken venimeux",
@@ -309,7 +347,8 @@
         "location": "Magasin d'équipement",
         "price": "24 975",
         "image": "Image/Shovel/Pelle_de_kraken_venimeux.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de jade des vents de l'est",
@@ -317,7 +356,8 @@
         "location": "Magasin d'équipement",
         "price": "24 975",
         "image": "Image/Shovel/Pelle_de_jade_des_vents_de_l_est.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de kraken",
@@ -325,7 +365,8 @@
         "location": "Magasin d'équipement",
         "price": "2 600",
         "image": "Image/Shovel/Pelle_de_kraken.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de fond de cale miteuse",
@@ -333,7 +374,8 @@
         "location": "Magasin d'équipement",
         "price": "5 400",
         "image": "Image/Shovel/Pelle_de_fond_de_cale_miteuse.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de fond de cale échouée",
@@ -341,7 +383,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_de_fond_de_cale_echouee.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de désosseur téméraire",
@@ -349,7 +392,8 @@
         "location": "Magasin d'équipement",
         "price": "15",
         "image": "Image/Shovel/Pelle_de_desosseur_temeraire.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de fond de cale",
@@ -357,7 +401,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_de_fond_de_cale.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de désosseur",
@@ -365,7 +410,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_de_desosseur.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de crabier du grand large",
@@ -373,7 +419,8 @@
         "location": "Magasin d'équipement",
         "price": "16 650",
         "image": "Image/Shovel/Pelle_de_crabier_du_grand_large.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de crabier",
@@ -381,7 +428,8 @@
         "location": "Magasin d'équipement",
         "price": "2 600",
         "image": "Image/Shovel/Pelle_de_crabier.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de collectionneur renommé",
@@ -389,7 +437,8 @@
         "location": "Magasin des Collectionneurs d'or",
         "price": "2 100",
         "image": "Image/Shovel/Pelle_de_collectionneur_renomme.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de collectionneur notable",
@@ -397,7 +446,8 @@
         "location": "Magasin des Collectionneurs d'or",
         "price": "1 400",
         "image": "Image/Shovel/Pelle_de_collectionneur_notable.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de collectionneur médiocre",
@@ -405,7 +455,8 @@
         "location": "Magasin des Collectionneurs d'or",
         "price": "700",
         "image": "Image/Shovel/Pelle_de_collectionneur_mediocre.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de collectionneur estimé",
@@ -413,7 +464,8 @@
         "location": "Magasin des Collectionneurs d'or",
         "price": "2 800",
         "image": "Image/Shovel/Pelle_de_collectionneur_estime.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de chasseur",
@@ -421,7 +473,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_de_chasseur.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de collectionneur notoire",
@@ -429,7 +482,8 @@
         "location": "Magasin des Collectionneurs d'or",
         "price": "3 500",
         "image": "Image/Shovel/Pelle_de_collectionneur_notoire.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de baron impériale",
@@ -437,7 +491,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_de_baron_imperiale.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de baron",
@@ -445,7 +500,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_de_baron.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle d'onyx",
@@ -453,7 +509,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/Pelle_d_onyx.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle d'encre de kraken",
@@ -461,7 +518,8 @@
         "location": "Magasin d'équipement",
         "price": "16 650",
         "image": "Image/Shovel/Pelle_d_encre_de_kraken.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de jade des vents de l'est",
@@ -469,7 +527,8 @@
         "location": "Magasin d'équipement",
         "price": "24 975",
         "image": "Image/Shovel/Pelle_de_jade_des_vents_de_l_est.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle d'aristocrate",
@@ -477,7 +536,8 @@
         "location": "Magasin d'équipement",
         "price": "15",
         "image": "Image/Shovel/Pelle_d_aristocrate.png",
-        "image_gold": "Image/Doubloon.webp"
+        "image_gold": "Image/Doubloon.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle amirale éminente",
@@ -485,7 +545,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_amirale_eminente.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle amirale rituelle",
@@ -493,7 +554,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_amirale_rituelle.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle amirale",
@@ -501,7 +563,8 @@
         "location": "Magasin d'équipement",
         "price": "1 850",
         "image": "Image/Shovel/Pelle_amirale.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de l'Ordre des âmes",
@@ -509,7 +572,8 @@
         "location": "Magasin de l'Ordre des âmes",
         "price": "300 000",
         "image": "Image/Shovel/pelle_de_l_ordre_des_ames.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle du gardien fantôme",
@@ -517,7 +581,8 @@
         "location": "Magasin d'équipement Athéna",
         "price": "13 250",
         "image": "Image/Shovel/pelle_du_gardien_fantome.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle du Bristling Barnacle",
@@ -525,7 +590,8 @@
         "location": "Magasin d'équipement",
         "price": "24 975",
         "image": "Image/Shovel/pelle_du_bristling_barnacle.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle de saphir des vents de l'est",
@@ -533,7 +599,8 @@
         "location": "Coffre d'équipement",
         "price": "Pas de prix",
         "image": "Image/Shovel/pelle_de_saphir_des_vents_de_l_est.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle du froid mordant",
@@ -541,7 +608,8 @@
         "location": "Magasin d'équipement",
         "price": "24 975",
         "image": "Image/Shovel/pelle_du_froid_mordant.png",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     },
     {
         "name": "Pelle des cendres de Forsaken brûlée",
@@ -549,6 +617,7 @@
         "location": "Magasin d'équipement",
         "price": "2 600",
         "image": "Image/Shovel/pelle_des_cendres_de_forsaken_brulee.webp",
-        "image_gold": "Image/Gold.webp"
+        "image_gold": "Image/Gold.webp",
+        "category": "Shovel"
     }
 ]

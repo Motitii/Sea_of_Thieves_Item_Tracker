@@ -1,0 +1,227 @@
+[
+    {
+        "name": "Chope de la marée nocturne",
+        "condition": "Ce cosmétique n’est plus disponible. S’obtenait en formant une alliance lors de l’évènement Pavillons d’Amitié du 12 juillet au 15 juillet et du 19 juillet au 22 juillet 2024",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/Chope_de_la_maree_nocturne.webp",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope de l’Alliance des marchands",
+        "condition": "Atteindre le niveau 50 auprès de l’Alliance des marchands.",
+        "location": "Magasin de l'Alliance des marchands",
+        "price": "135 000",
+        "image": "Image/Tankard/Chope-de-l-Alliance-des-marchands.webp",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope ébréchée",
+        "condition": "Ce cosmétique n’est plus disponible. S’obtenait en activant un code avec la collaboration entre XBOX et Doritos.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/chope_ebrechee.webp",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope de l’étranger mystérieux",
+        "condition": "Ce cosmétique n’est plus disponible. S’obtenait se connectant pendant la semaines des légendes ayant eu lieu du 7 septembre au 14 septembre 2023.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/chope_de_l_etranger_mysterieux.webp",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Quatrième chope annuelle de Grogmanay",
+        "condition": "Participer à l’événement « Grogmanay » 4 fois.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/quatrieme_chope_annuelle_de_grogmanay.webp",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Troisième Chope Annuelle de Grogmanay",
+        "condition": "Participer à l’événement « Grogmanay » 3 fois.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/3e-choppe-grogmanay.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope de la banshee de Bleakheart",
+        "condition": "Aucun prérequis.",
+        "location": "Magasin d'équipement",
+        "price": "249",
+        "image": "Image/Tankard/chope_de_la_banshee_de_bleakheart.webp",
+        "image_gold": "Image/AncientCoin.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope du tonneau explosif",
+        "condition": "Aucun prérequis.",
+        "location": "Pirate Emporium",
+        "price": "249",
+        "image": "Image/Tankard/chope_du_tonneau_explosif.webp",
+        "image_gold": "Image/AncientCoin.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope noix de coco",
+        "condition": "Requiert le niveau 20 du pass gratuit de la saison 7.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/Chope_noix_de_coco.webp",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope de l’horizon gelé",
+        "condition": "Aucun prérequis.",
+        "location": "Pirate Emporium",
+        "price": "249",
+        "image": "Image/Tankard/chope_de_l_horizon_gele.png",
+        "image_gold": "Image/AncientCoin.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope des cendres de Forsaken roussie",
+        "condition": "Requiert la promotion « Capitaine des os cendrés ». (Vaincre 100 squelettes à l’aide d’un crâne des Vents cendrés)",
+        "location": "Magasin d'équipement",
+        "price": "1 250",
+        "image": "Image/Tankard/chope_des_cendres_de_forsaken_roussie.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope de Merrick",
+        "condition": "Requiert le titre « Pirate Légende » et le niveau 45 du pass gratuit de la saison 5.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/chope_de_merrick.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope de la Crypte pourpre",
+        "condition": "Aucun prérequis.",
+        "location": "Pirate Emporium",
+        "price": "249",
+        "image": "Image/Tankard/chope_de_la_crypte_pourpre.png",
+        "image_gold": "Image/AncientCoin.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope de Wild Rose prospère",
+        "condition": "Requiert la promotion « Tienne à tout jamais ». (Avoir réalisé toutes les promotions de la fable « Wild Rose »)",
+        "location": "Magasin d'équipement",
+        "price": "12 150",
+        "image": "Image/Tankard/chope_de_wild_rose_prospere.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Deuxième chope annuelle de Grogmanay",
+        "condition": "Participer à l’événement « Grogmanay » 2 fois.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/2e-choppe-grogmanay.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Première chope annuelle de Grogmanay",
+        "condition": "Participer à l’événement « Grogmanay » une fois.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/1e-choppe-grogmanay.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope de la toile cruelle",
+        "condition": "Obtenir la promotion « Bannir les Damnés »",
+        "location": "Magasin d'équipement",
+        "price": "24 300",
+        "image": "Image/Tankard/Chope-de-la-toile-cruelle.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope de chasseur du crépuscule",
+        "condition": "Ce cosmétique n’est plus disponible. Uniquement obtenable en Twitch Drops le 2 Octobre 2021.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/Chope-de-chasseur-du-crepuscule.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope des damnés",
+        "condition": "Terminez la fable Les Capitaines des damnés pour obtenir cette récompense.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/Chope-des-damnes.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope de chasseur de l’aube",
+        "condition": "Disposer de la promotion « Trésors pillés » au rang 2 (vendre 240 objets de n’importe quelle société en affichant le pavillon d’émissaire des Os de la Faucheuse).",
+        "location": "Magasin d'équipement",
+        "price": "12 150",
+        "image": "Image/Tankard/Chope-de-chasseur-de-l-aube.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope ornée de saphirs",
+        "condition": "Récompense de participation au programme Insider pendant 115 semaines.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/Chope_ornee_de_saphirs.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope de crabier de l’océan azur",
+        "condition": "Disposer de la promotion « Chasseur de poissons trophées » (Livrer 25 poissons trophées).",
+        "location": "Magasin d'équipement",
+        "price": "1 250",
+        "image": "Image/Tankard/Chope_de_crabier_de_l_ocean_azur-1.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope d’aristocrate cultivé",
+        "condition": "Disposer de la promotion ‘La malédiction du Pacifists Demise’ (Infliger un boulet de paix à un autre navire en affichant le pavillon à tête de mort).",
+        "location": "Magasin d'équipement",
+        "price": "12 150",
+        "image": "Image/Tankard/Chope_d_aristocrate_cultive-1.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope légendaire dorée",
+        "condition": "Offert aux joueurs possédant le titre « Pirate Légende » avant le 20 Mars 2019.",
+        "location": "Coffre d'équipement",
+        "price": "Pas de prix",
+        "image": "Image/Tankard/Chope_legendaire_doree-1.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    },
+    {
+        "name": "Chope royale",
+        "condition": "Atteindre le niveau 38 auprès des Collectionneurs d’or.",
+        "location": "Magasin d'équipement",
+        "price": "900",
+        "image": "Image/Tankard/Chope_royale-1.png",
+        "image_gold": "Image/Gold.webp",
+        "category": "Tankard"
+    }
+]
